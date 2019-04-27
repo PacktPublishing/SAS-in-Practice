@@ -1,6 +1,6 @@
 # SAS-in-Practice
 
-This is the code repository for [SAS in Practice [Video]](https://www.packtpub.com/big-data-and-business-intelligence/sas-practice-video, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [SAS in Practice [Video]](https://www.packtpub.com/big-data-and-business-intelligence/sas-practice-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
 ## About the Video Course
 Are you a beginner who’s looking to become a Data Analyst or Data Scientist? If so, there are various tools and techniques to implement Data Analytics, but it’s recommended that you learn SAS as your first language because it’s easy to learn and has a user-friendly GUI. It holds the highest market share of all the Analytics tools available. If you have little or no programming background and want to get started with SAS, then this is the right course for you!
