@@ -37,3 +37,7 @@ Browser: Microsoft Internet Explorer 9, 10 or 11, Mozilla Firefox 21 or later, G
 * [Big Data Analytics with SAS](https://prod.packtpub.com/in/big-data-and-business-intelligence/big-data-analytics-sas)
 
 * [Hands-On SAS For Data Analysis](https://www.packtpub.com/big-data-and-business-intelligence/hands-sas-data-analysis)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838824921">https://packt.link/free-ebook/9781838824921 </a> </p>
